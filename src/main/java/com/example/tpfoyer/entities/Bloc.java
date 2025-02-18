@@ -32,3 +32,5 @@ public class Bloc {
     @OneToMany (mappedBy = "bloc", fetch = FetchType.EAGER)
     Set <Chambre> chambres =new HashSet<>();
 }
+
+//testttttttttttttttttttttttttttt
